@@ -1,0 +1,40 @@
+td{
+    text-align: center;
+    
+}
+
+table {
+     width: 80% ;
+     text-align: center;
+  }
+
+  h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    text-align: center
+  }
+
+  h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+  }
+
+  select {
+   
+    margin-top:8px;
+    border-radius:4px;
+    background-color :white;
+    color: black    ;
+    font-size:15px;
+    outline:none
+    }

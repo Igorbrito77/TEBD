@@ -1,0 +1,19 @@
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ufmedic.com/ufrrj/tebd/#">
+    <rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#especialidade/1">
+    	<j.0:codigo>1</j.0:codigo>
+	    <j.0:nome>dermatologista</j.0:nome>
+	    <j.0:descricao>peles, cabelos, unhas</j.0:descricao>
+  	</rdf:Description>
+  	<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#especialidade/2">
+  		<j.0:codigo>2</j.0:codigo>
+	    <j.0:nome>cardiologista</j.0:nome>
+	    <j.0:descricao>coracao</j.0:descricao>
+  	</rdf:Description>
+  	<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#especialidade/3">
+  		<j.0:codigo>3</j.0:codigo>
+	    <j.0:nome>hepatologista</j.0:nome>
+	    <j.0:descricao>figado</j.0:descricao>
+  	</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1804 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ufmedic.com/ufrrj/tebd/#">
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/0">
+    <j.0:data_hora>2019-06-27 14:00</j.0:data_hora>
+    <j.0:crm>32</j.0:crm>
+    <j.0:cpf>124</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/1">
+    <j.0:data_hora>2019-07-01 13:00</j.0:data_hora>
+    <j.0:crm>49</j.0:crm>
+    <j.0:cpf>645</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/2">
+    <j.0:data_hora>2019-07-14 13:00</j.0:data_hora>
+    <j.0:crm>64</j.0:crm>
+    <j.0:cpf>255</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/3">
+    <j.0:data_hora>2019-07-18 18:00</j.0:data_hora>
+    <j.0:crm>65</j.0:crm>
+    <j.0:cpf>77</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/4">
+    <j.0:data_hora>2019-07-08 15:00</j.0:data_hora>
+    <j.0:crm>13</j.0:crm>
+    <j.0:cpf>425</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/5">
+    <j.0:data_hora>2019-06-22 16:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>99</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/6">
+    <j.0:data_hora>2019-06-28 15:00</j.0:data_hora>
+    <j.0:crm>33</j.0:crm>
+    <j.0:cpf>750</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/7">
+    <j.0:data_hora>2019-07-15 9:00</j.0:data_hora>
+    <j.0:crm>84</j.0:crm>
+    <j.0:cpf>180</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/8">
+    <j.0:data_hora>2019-07-15 12:00</j.0:data_hora>
+    <j.0:crm>6</j.0:crm>
+    <j.0:cpf>888</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/9">
+    <j.0:data_hora>2019-07-07 16:00</j.0:data_hora>
+    <j.0:crm>87</j.0:crm>
+    <j.0:cpf>620</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/10">
+    <j.0:data_hora>2019-07-08 11:00</j.0:data_hora>
+    <j.0:crm>28</j.0:crm>
+    <j.0:cpf>76</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/11">
+    <j.0:data_hora>2019-06-30 17:00</j.0:data_hora>
+    <j.0:crm>78</j.0:crm>
+    <j.0:cpf>28</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/12">
+    <j.0:data_hora>2019-07-07 9:00</j.0:data_hora>
+    <j.0:crm>23</j.0:crm>
+    <j.0:cpf>830</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/13">
+    <j.0:data_hora>2019-07-12 12:00</j.0:data_hora>
+    <j.0:crm>57</j.0:crm>
+    <j.0:cpf>768</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/14">
+    <j.0:data_hora>2019-06-30 10:00</j.0:data_hora>
+    <j.0:crm>3</j.0:crm>
+    <j.0:cpf>262</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/15">
+    <j.0:data_hora>2019-06-29 11:00</j.0:data_hora>
+    <j.0:crm>15</j.0:crm>
+    <j.0:cpf>28</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/16">
+    <j.0:data_hora>2019-06-23 10:00</j.0:data_hora>
+    <j.0:crm>91</j.0:crm>
+    <j.0:cpf>85</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/17">
+    <j.0:data_hora>2019-07-18 15:00</j.0:data_hora>
+    <j.0:crm>70</j.0:crm>
+    <j.0:cpf>819</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/18">
+    <j.0:data_hora>2019-06-24 15:00</j.0:data_hora>
+    <j.0:crm>75</j.0:crm>
+    <j.0:cpf>559</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/19">
+    <j.0:data_hora>2019-07-01 11:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>315</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/20">
+    <j.0:data_hora>2019-07-04 14:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>855</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/21">
+    <j.0:data_hora>2019-07-09 12:00</j.0:data_hora>
+    <j.0:crm>4</j.0:crm>
+    <j.0:cpf>462</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/22">
+    <j.0:data_hora>2019-07-16 9:00</j.0:data_hora>
+    <j.0:crm>41</j.0:crm>
+    <j.0:cpf>98</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/23">
+    <j.0:data_hora>2019-07-07 17:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>871</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/24">
+    <j.0:data_hora>2019-06-27 12:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>684</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/25">
+    <j.0:data_hora>2019-06-28 11:00</j.0:data_hora>
+    <j.0:crm>19</j.0:crm>
+    <j.0:cpf>926</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/26">
+    <j.0:data_hora>2019-06-23 18:00</j.0:data_hora>
+    <j.0:crm>10</j.0:crm>
+    <j.0:cpf>988</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/27">
+    <j.0:data_hora>2019-07-05 11:00</j.0:data_hora>
+    <j.0:crm>3</j.0:crm>
+    <j.0:cpf>312</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/28">
+    <j.0:data_hora>2019-07-18 17:00</j.0:data_hora>
+    <j.0:crm>18</j.0:crm>
+    <j.0:cpf>304</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/29">
+    <j.0:data_hora>2019-06-28 13:00</j.0:data_hora>
+    <j.0:crm>49</j.0:crm>
+    <j.0:cpf>994</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/30">
+    <j.0:data_hora>2019-07-05 12:00</j.0:data_hora>
+    <j.0:crm>16</j.0:crm>
+    <j.0:cpf>983</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/31">
+    <j.0:data_hora>2019-06-24 13:00</j.0:data_hora>
+    <j.0:crm>88</j.0:crm>
+    <j.0:cpf>37</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/32">
+    <j.0:data_hora>2019-07-06 17:00</j.0:data_hora>
+    <j.0:crm>64</j.0:crm>
+    <j.0:cpf>902</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/33">
+    <j.0:data_hora>2019-06-25 9:00</j.0:data_hora>
+    <j.0:crm>15</j.0:crm>
+    <j.0:cpf>134</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/34">
+    <j.0:data_hora>2019-07-03 12:00</j.0:data_hora>
+    <j.0:crm>3</j.0:crm>
+    <j.0:cpf>192</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/35">
+    <j.0:data_hora>2019-06-29 10:00</j.0:data_hora>
+    <j.0:crm>96</j.0:crm>
+    <j.0:cpf>669</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/36">
+    <j.0:data_hora>2019-07-16 12:00</j.0:data_hora>
+    <j.0:crm>42</j.0:crm>
+    <j.0:cpf>991</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/37">
+    <j.0:data_hora>2019-07-18 16:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>856</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/38">
+    <j.0:data_hora>2019-06-22 14:00</j.0:data_hora>
+    <j.0:crm>54</j.0:crm>
+    <j.0:cpf>549</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/39">
+    <j.0:data_hora>2019-07-08 16:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>660</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/40">
+    <j.0:data_hora>2019-06-28 9:00</j.0:data_hora>
+    <j.0:crm>12</j.0:crm>
+    <j.0:cpf>691</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/41">
+    <j.0:data_hora>2019-07-02 13:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>49</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/42">
+    <j.0:data_hora>2019-06-30 14:00</j.0:data_hora>
+    <j.0:crm>92</j.0:crm>
+    <j.0:cpf>644</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/43">
+    <j.0:data_hora>2019-07-10 11:00</j.0:data_hora>
+    <j.0:crm>53</j.0:crm>
+    <j.0:cpf>922</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/44">
+    <j.0:data_hora>2019-06-28 14:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>479</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/45">
+    <j.0:data_hora>2019-06-24 12:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>208</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/46">
+    <j.0:data_hora>2019-06-30 14:00</j.0:data_hora>
+    <j.0:crm>46</j.0:crm>
+    <j.0:cpf>350</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/47">
+    <j.0:data_hora>2019-07-02 16:00</j.0:data_hora>
+    <j.0:crm>57</j.0:crm>
+    <j.0:cpf>402</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/48">
+    <j.0:data_hora>2019-07-12 12:00</j.0:data_hora>
+    <j.0:crm>30</j.0:crm>
+    <j.0:cpf>563</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/49">
+    <j.0:data_hora>2019-07-03 18:00</j.0:data_hora>
+    <j.0:crm>92</j.0:crm>
+    <j.0:cpf>115</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/50">
+    <j.0:data_hora>2019-06-20 11:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>21</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/51">
+    <j.0:data_hora>2019-07-05 11:00</j.0:data_hora>
+    <j.0:crm>64</j.0:crm>
+    <j.0:cpf>275</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/52">
+    <j.0:data_hora>2019-06-21 11:00</j.0:data_hora>
+    <j.0:crm>93</j.0:crm>
+    <j.0:cpf>382</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/53">
+    <j.0:data_hora>2019-06-21 14:00</j.0:data_hora>
+    <j.0:crm>28</j.0:crm>
+    <j.0:cpf>924</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/54">
+    <j.0:data_hora>2019-07-17 11:00</j.0:data_hora>
+    <j.0:crm>90</j.0:crm>
+    <j.0:cpf>88</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/55">
+    <j.0:data_hora>2019-07-11 16:00</j.0:data_hora>
+    <j.0:crm>58</j.0:crm>
+    <j.0:cpf>46</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/56">
+    <j.0:data_hora>2019-06-23 15:00</j.0:data_hora>
+    <j.0:crm>41</j.0:crm>
+    <j.0:cpf>516</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/57">
+    <j.0:data_hora>2019-07-04 12:00</j.0:data_hora>
+    <j.0:crm>57</j.0:crm>
+    <j.0:cpf>829</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/58">
+    <j.0:data_hora>2019-07-04 18:00</j.0:data_hora>
+    <j.0:crm>98</j.0:crm>
+    <j.0:cpf>88</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/59">
+    <j.0:data_hora>2019-07-03 18:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>556</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/60">
+    <j.0:data_hora>2019-07-13 15:00</j.0:data_hora>
+    <j.0:crm>45</j.0:crm>
+    <j.0:cpf>426</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/61">
+    <j.0:data_hora>2019-06-27 17:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>626</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/62">
+    <j.0:data_hora>2019-07-11 12:00</j.0:data_hora>
+    <j.0:crm>86</j.0:crm>
+    <j.0:cpf>512</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/63">
+    <j.0:data_hora>2019-07-01 17:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>961</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/64">
+    <j.0:data_hora>2019-06-21 14:00</j.0:data_hora>
+    <j.0:crm>80</j.0:crm>
+    <j.0:cpf>468</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/65">
+    <j.0:data_hora>2019-07-10 11:00</j.0:data_hora>
+    <j.0:crm>5</j.0:crm>
+    <j.0:cpf>318</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/66">
+    <j.0:data_hora>2019-07-02 10:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>309</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/67">
+    <j.0:data_hora>2019-06-23 17:00</j.0:data_hora>
+    <j.0:crm>19</j.0:crm>
+    <j.0:cpf>283</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/68">
+    <j.0:data_hora>2019-07-04 15:00</j.0:data_hora>
+    <j.0:crm>79</j.0:crm>
+    <j.0:cpf>539</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/69">
+    <j.0:data_hora>2019-06-24 17:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>667</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/70">
+    <j.0:data_hora>2019-07-08 16:00</j.0:data_hora>
+    <j.0:crm>31</j.0:crm>
+    <j.0:cpf>851</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/71">
+    <j.0:data_hora>2019-06-26 15:00</j.0:data_hora>
+    <j.0:crm>2</j.0:crm>
+    <j.0:cpf>264</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/72">
+    <j.0:data_hora>2019-07-06 11:00</j.0:data_hora>
+    <j.0:crm>29</j.0:crm>
+    <j.0:cpf>531</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/73">
+    <j.0:data_hora>2019-07-15 12:00</j.0:data_hora>
+    <j.0:crm>73</j.0:crm>
+    <j.0:cpf>524</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/74">
+    <j.0:data_hora>2019-07-11 9:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>394</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/75">
+    <j.0:data_hora>2019-07-16 14:00</j.0:data_hora>
+    <j.0:crm>96</j.0:crm>
+    <j.0:cpf>263</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/76">
+    <j.0:data_hora>2019-07-16 16:00</j.0:data_hora>
+    <j.0:crm>59</j.0:crm>
+    <j.0:cpf>638</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/77">
+    <j.0:data_hora>2019-06-25 14:00</j.0:data_hora>
+    <j.0:crm>72</j.0:crm>
+    <j.0:cpf>337</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/78">
+    <j.0:data_hora>2019-06-24 12:00</j.0:data_hora>
+    <j.0:crm>92</j.0:crm>
+    <j.0:cpf>795</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/79">
+    <j.0:data_hora>2019-07-14 12:00</j.0:data_hora>
+    <j.0:crm>97</j.0:crm>
+    <j.0:cpf>781</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/80">
+    <j.0:data_hora>2019-06-25 15:00</j.0:data_hora>
+    <j.0:crm>52</j.0:crm>
+    <j.0:cpf>419</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/81">
+    <j.0:data_hora>2019-07-13 11:00</j.0:data_hora>
+    <j.0:crm>31</j.0:crm>
+    <j.0:cpf>514</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/82">
+    <j.0:data_hora>2019-07-16 12:00</j.0:data_hora>
+    <j.0:crm>76</j.0:crm>
+    <j.0:cpf>567</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/83">
+    <j.0:data_hora>2019-06-29 12:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>939</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/84">
+    <j.0:data_hora>2019-06-26 18:00</j.0:data_hora>
+    <j.0:crm>2</j.0:crm>
+    <j.0:cpf>41</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/85">
+    <j.0:data_hora>2019-06-20 16:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>303</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/86">
+    <j.0:data_hora>2019-07-10 16:00</j.0:data_hora>
+    <j.0:crm>93</j.0:crm>
+    <j.0:cpf>614</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/87">
+    <j.0:data_hora>2019-07-05 10:00</j.0:data_hora>
+    <j.0:crm>97</j.0:crm>
+    <j.0:cpf>41</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/88">
+    <j.0:data_hora>2019-06-30 9:00</j.0:data_hora>
+    <j.0:crm>51</j.0:crm>
+    <j.0:cpf>603</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/89">
+    <j.0:data_hora>2019-06-27 14:00</j.0:data_hora>
+    <j.0:crm>24</j.0:crm>
+    <j.0:cpf>904</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/90">
+    <j.0:data_hora>2019-07-18 12:00</j.0:data_hora>
+    <j.0:crm>52</j.0:crm>
+    <j.0:cpf>226</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/91">
+    <j.0:data_hora>2019-06-22 14:00</j.0:data_hora>
+    <j.0:crm>23</j.0:crm>
+    <j.0:cpf>543</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/92">
+    <j.0:data_hora>2019-07-12 14:00</j.0:data_hora>
+    <j.0:crm>61</j.0:crm>
+    <j.0:cpf>339</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/93">
+    <j.0:data_hora>2019-07-07 14:00</j.0:data_hora>
+    <j.0:crm>96</j.0:crm>
+    <j.0:cpf>736</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/94">
+    <j.0:data_hora>2019-07-01 16:00</j.0:data_hora>
+    <j.0:crm>8</j.0:crm>
+    <j.0:cpf>457</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/95">
+    <j.0:data_hora>2019-06-27 10:00</j.0:data_hora>
+    <j.0:crm>36</j.0:crm>
+    <j.0:cpf>747</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/96">
+    <j.0:data_hora>2019-06-30 12:00</j.0:data_hora>
+    <j.0:crm>94</j.0:crm>
+    <j.0:cpf>681</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/97">
+    <j.0:data_hora>2019-07-05 12:00</j.0:data_hora>
+    <j.0:crm>1</j.0:crm>
+    <j.0:cpf>24</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/98">
+    <j.0:data_hora>2019-07-02 16:00</j.0:data_hora>
+    <j.0:crm>7</j.0:crm>
+    <j.0:cpf>501</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/99">
+    <j.0:data_hora>2019-07-03 13:00</j.0:data_hora>
+    <j.0:crm>79</j.0:crm>
+    <j.0:cpf>895</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/100">
+    <j.0:data_hora>2019-06-26 15:00</j.0:data_hora>
+    <j.0:crm>90</j.0:crm>
+    <j.0:cpf>548</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/101">
+    <j.0:data_hora>2019-07-12 14:00</j.0:data_hora>
+    <j.0:crm>29</j.0:crm>
+    <j.0:cpf>47</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/102">
+    <j.0:data_hora>2019-07-17 18:00</j.0:data_hora>
+    <j.0:crm>73</j.0:crm>
+    <j.0:cpf>645</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/103">
+    <j.0:data_hora>2019-06-23 12:00</j.0:data_hora>
+    <j.0:crm>76</j.0:crm>
+    <j.0:cpf>951</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/104">
+    <j.0:data_hora>2019-07-02 17:00</j.0:data_hora>
+    <j.0:crm>75</j.0:crm>
+    <j.0:cpf>741</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/105">
+    <j.0:data_hora>2019-07-14 13:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>756</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/106">
+    <j.0:data_hora>2019-07-03 9:00</j.0:data_hora>
+    <j.0:crm>19</j.0:crm>
+    <j.0:cpf>209</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/107">
+    <j.0:data_hora>2019-07-09 16:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>984</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/108">
+    <j.0:data_hora>2019-07-14 14:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>720</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/109">
+    <j.0:data_hora>2019-07-12 9:00</j.0:data_hora>
+    <j.0:crm>65</j.0:crm>
+    <j.0:cpf>644</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/110">
+    <j.0:data_hora>2019-07-18 18:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>628</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/111">
+    <j.0:data_hora>2019-07-02 9:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>587</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/112">
+    <j.0:data_hora>2019-07-17 15:00</j.0:data_hora>
+    <j.0:crm>40</j.0:crm>
+    <j.0:cpf>152</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/113">
+    <j.0:data_hora>2019-06-30 10:00</j.0:data_hora>
+    <j.0:crm>54</j.0:crm>
+    <j.0:cpf>62</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/114">
+    <j.0:data_hora>2019-06-21 12:00</j.0:data_hora>
+    <j.0:crm>56</j.0:crm>
+    <j.0:cpf>636</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/115">
+    <j.0:data_hora>2019-06-21 18:00</j.0:data_hora>
+    <j.0:crm>33</j.0:crm>
+    <j.0:cpf>655</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/116">
+    <j.0:data_hora>2019-06-21 9:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>404</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/117">
+    <j.0:data_hora>2019-06-21 18:00</j.0:data_hora>
+    <j.0:crm>42</j.0:crm>
+    <j.0:cpf>202</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/118">
+    <j.0:data_hora>2019-06-21 9:00</j.0:data_hora>
+    <j.0:crm>40</j.0:crm>
+    <j.0:cpf>168</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/119">
+    <j.0:data_hora>2019-07-18 9:00</j.0:data_hora>
+    <j.0:crm>98</j.0:crm>
+    <j.0:cpf>670</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/120">
+    <j.0:data_hora>2019-06-28 10:00</j.0:data_hora>
+    <j.0:crm>52</j.0:crm>
+    <j.0:cpf>733</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/121">
+    <j.0:data_hora>2019-06-25 15:00</j.0:data_hora>
+    <j.0:crm>58</j.0:crm>
+    <j.0:cpf>734</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/122">
+    <j.0:data_hora>2019-07-10 9:00</j.0:data_hora>
+    <j.0:crm>60</j.0:crm>
+    <j.0:cpf>63</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/123">
+    <j.0:data_hora>2019-06-30 17:00</j.0:data_hora>
+    <j.0:crm>49</j.0:crm>
+    <j.0:cpf>337</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/124">
+    <j.0:data_hora>2019-07-15 10:00</j.0:data_hora>
+    <j.0:crm>84</j.0:crm>
+    <j.0:cpf>468</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/125">
+    <j.0:data_hora>2019-07-15 10:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>517</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/126">
+    <j.0:data_hora>2019-07-14 16:00</j.0:data_hora>
+    <j.0:crm>60</j.0:crm>
+    <j.0:cpf>251</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/127">
+    <j.0:data_hora>2019-07-14 10:00</j.0:data_hora>
+    <j.0:crm>26</j.0:crm>
+    <j.0:cpf>208</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/128">
+    <j.0:data_hora>2019-06-21 10:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>604</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/129">
+    <j.0:data_hora>2019-06-29 17:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>538</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/130">
+    <j.0:data_hora>2019-06-25 13:00</j.0:data_hora>
+    <j.0:crm>78</j.0:crm>
+    <j.0:cpf>46</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/131">
+    <j.0:data_hora>2019-07-11 13:00</j.0:data_hora>
+    <j.0:crm>90</j.0:crm>
+    <j.0:cpf>726</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/132">
+    <j.0:data_hora>2019-07-09 10:00</j.0:data_hora>
+    <j.0:crm>59</j.0:crm>
+    <j.0:cpf>794</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/133">
+    <j.0:data_hora>2019-07-01 11:00</j.0:data_hora>
+    <j.0:crm>81</j.0:crm>
+    <j.0:cpf>201</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/134">
+    <j.0:data_hora>2019-07-11 16:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>336</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/135">
+    <j.0:data_hora>2019-07-14 11:00</j.0:data_hora>
+    <j.0:crm>31</j.0:crm>
+    <j.0:cpf>710</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/136">
+    <j.0:data_hora>2019-06-23 12:00</j.0:data_hora>
+    <j.0:crm>83</j.0:crm>
+    <j.0:cpf>295</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/137">
+    <j.0:data_hora>2019-07-08 13:00</j.0:data_hora>
+    <j.0:crm>46</j.0:crm>
+    <j.0:cpf>25</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/138">
+    <j.0:data_hora>2019-06-21 15:00</j.0:data_hora>
+    <j.0:crm>26</j.0:crm>
+    <j.0:cpf>301</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/139">
+    <j.0:data_hora>2019-07-04 16:00</j.0:data_hora>
+    <j.0:crm>36</j.0:crm>
+    <j.0:cpf>854</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/140">
+    <j.0:data_hora>2019-06-27 9:00</j.0:data_hora>
+    <j.0:crm>93</j.0:crm>
+    <j.0:cpf>589</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/141">
+    <j.0:data_hora>2019-07-18 10:00</j.0:data_hora>
+    <j.0:crm>30</j.0:crm>
+    <j.0:cpf>11</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/142">
+    <j.0:data_hora>2019-07-01 9:00</j.0:data_hora>
+    <j.0:crm>74</j.0:crm>
+    <j.0:cpf>640</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/143">
+    <j.0:data_hora>2019-07-16 13:00</j.0:data_hora>
+    <j.0:crm>46</j.0:crm>
+    <j.0:cpf>303</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/144">
+    <j.0:data_hora>2019-07-08 9:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>468</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/145">
+    <j.0:data_hora>2019-07-14 13:00</j.0:data_hora>
+    <j.0:crm>52</j.0:crm>
+    <j.0:cpf>2</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/146">
+    <j.0:data_hora>2019-07-17 14:00</j.0:data_hora>
+    <j.0:crm>99</j.0:crm>
+    <j.0:cpf>686</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/147">
+    <j.0:data_hora>2019-07-16 11:00</j.0:data_hora>
+    <j.0:crm>52</j.0:crm>
+    <j.0:cpf>8</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/148">
+    <j.0:data_hora>2019-06-29 9:00</j.0:data_hora>
+    <j.0:crm>41</j.0:crm>
+    <j.0:cpf>523</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/149">
+    <j.0:data_hora>2019-06-27 18:00</j.0:data_hora>
+    <j.0:crm>97</j.0:crm>
+    <j.0:cpf>56</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/150">
+    <j.0:data_hora>2019-06-24 11:00</j.0:data_hora>
+    <j.0:crm>50</j.0:crm>
+    <j.0:cpf>535</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/151">
+    <j.0:data_hora>2019-07-10 11:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>403</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/152">
+    <j.0:data_hora>2019-07-11 15:00</j.0:data_hora>
+    <j.0:crm>47</j.0:crm>
+    <j.0:cpf>233</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/153">
+    <j.0:data_hora>2019-07-02 14:00</j.0:data_hora>
+    <j.0:crm>27</j.0:crm>
+    <j.0:cpf>133</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/154">
+    <j.0:data_hora>2019-07-05 17:00</j.0:data_hora>
+    <j.0:crm>25</j.0:crm>
+    <j.0:cpf>661</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/155">
+    <j.0:data_hora>2019-07-12 10:00</j.0:data_hora>
+    <j.0:crm>53</j.0:crm>
+    <j.0:cpf>499</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/156">
+    <j.0:data_hora>2019-07-15 17:00</j.0:data_hora>
+    <j.0:crm>30</j.0:crm>
+    <j.0:cpf>560</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/157">
+    <j.0:data_hora>2019-07-09 15:00</j.0:data_hora>
+    <j.0:crm>41</j.0:crm>
+    <j.0:cpf>586</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/158">
+    <j.0:data_hora>2019-06-21 17:00</j.0:data_hora>
+    <j.0:crm>62</j.0:crm>
+    <j.0:cpf>651</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/159">
+    <j.0:data_hora>2019-06-23 17:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>260</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/160">
+    <j.0:data_hora>2019-07-18 17:00</j.0:data_hora>
+    <j.0:crm>40</j.0:crm>
+    <j.0:cpf>622</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/161">
+    <j.0:data_hora>2019-07-08 12:00</j.0:data_hora>
+    <j.0:crm>40</j.0:crm>
+    <j.0:cpf>558</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/162">
+    <j.0:data_hora>2019-07-06 18:00</j.0:data_hora>
+    <j.0:crm>93</j.0:crm>
+    <j.0:cpf>102</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/163">
+    <j.0:data_hora>2019-06-24 13:00</j.0:data_hora>
+    <j.0:crm>58</j.0:crm>
+    <j.0:cpf>185</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/164">
+    <j.0:data_hora>2019-06-27 18:00</j.0:data_hora>
+    <j.0:crm>3</j.0:crm>
+    <j.0:cpf>431</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/165">
+    <j.0:data_hora>2019-07-13 13:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>485</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/166">
+    <j.0:data_hora>2019-06-27 15:00</j.0:data_hora>
+    <j.0:crm>58</j.0:crm>
+    <j.0:cpf>805</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/167">
+    <j.0:data_hora>2019-07-01 10:00</j.0:data_hora>
+    <j.0:crm>27</j.0:crm>
+    <j.0:cpf>824</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/168">
+    <j.0:data_hora>2019-06-28 17:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>78</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/169">
+    <j.0:data_hora>2019-07-05 15:00</j.0:data_hora>
+    <j.0:crm>82</j.0:crm>
+    <j.0:cpf>709</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/170">
+    <j.0:data_hora>2019-06-21 18:00</j.0:data_hora>
+    <j.0:crm>91</j.0:crm>
+    <j.0:cpf>742</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/171">
+    <j.0:data_hora>2019-07-12 17:00</j.0:data_hora>
+    <j.0:crm>95</j.0:crm>
+    <j.0:cpf>349</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/172">
+    <j.0:data_hora>2019-07-02 17:00</j.0:data_hora>
+    <j.0:crm>98</j.0:crm>
+    <j.0:cpf>119</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/173">
+    <j.0:data_hora>2019-07-01 17:00</j.0:data_hora>
+    <j.0:crm>33</j.0:crm>
+    <j.0:cpf>771</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/174">
+    <j.0:data_hora>2019-07-08 16:00</j.0:data_hora>
+    <j.0:crm>84</j.0:crm>
+    <j.0:cpf>427</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/175">
+    <j.0:data_hora>2019-07-16 13:00</j.0:data_hora>
+    <j.0:crm>67</j.0:crm>
+    <j.0:cpf>227</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/176">
+    <j.0:data_hora>2019-06-30 11:00</j.0:data_hora>
+    <j.0:crm>63</j.0:crm>
+    <j.0:cpf>362</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/177">
+    <j.0:data_hora>2019-06-22 13:00</j.0:data_hora>
+    <j.0:crm>27</j.0:crm>
+    <j.0:cpf>478</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/178">
+    <j.0:data_hora>2019-06-29 16:00</j.0:data_hora>
+    <j.0:crm>26</j.0:crm>
+    <j.0:cpf>796</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/179">
+    <j.0:data_hora>2019-06-22 12:00</j.0:data_hora>
+    <j.0:crm>87</j.0:crm>
+    <j.0:cpf>902</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/180">
+    <j.0:data_hora>2019-07-02 14:00</j.0:data_hora>
+    <j.0:crm>32</j.0:crm>
+    <j.0:cpf>412</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/181">
+    <j.0:data_hora>2019-06-20 13:00</j.0:data_hora>
+    <j.0:crm>51</j.0:crm>
+    <j.0:cpf>689</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/182">
+    <j.0:data_hora>2019-07-13 9:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>914</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/183">
+    <j.0:data_hora>2019-06-26 16:00</j.0:data_hora>
+    <j.0:crm>5</j.0:crm>
+    <j.0:cpf>62</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/184">
+    <j.0:data_hora>2019-07-09 10:00</j.0:data_hora>
+    <j.0:crm>67</j.0:crm>
+    <j.0:cpf>329</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/185">
+    <j.0:data_hora>2019-06-23 17:00</j.0:data_hora>
+    <j.0:crm>21</j.0:crm>
+    <j.0:cpf>822</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/186">
+    <j.0:data_hora>2019-07-10 13:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>370</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/187">
+    <j.0:data_hora>2019-07-06 18:00</j.0:data_hora>
+    <j.0:crm>37</j.0:crm>
+    <j.0:cpf>882</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/188">
+    <j.0:data_hora>2019-07-11 16:00</j.0:data_hora>
+    <j.0:crm>92</j.0:crm>
+    <j.0:cpf>376</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/189">
+    <j.0:data_hora>2019-07-10 10:00</j.0:data_hora>
+    <j.0:crm>43</j.0:crm>
+    <j.0:cpf>349</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/190">
+    <j.0:data_hora>2019-06-27 17:00</j.0:data_hora>
+    <j.0:crm>59</j.0:crm>
+    <j.0:cpf>981</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/191">
+    <j.0:data_hora>2019-07-03 16:00</j.0:data_hora>
+    <j.0:crm>70</j.0:crm>
+    <j.0:cpf>347</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/192">
+    <j.0:data_hora>2019-07-10 18:00</j.0:data_hora>
+    <j.0:crm>14</j.0:crm>
+    <j.0:cpf>69</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/193">
+    <j.0:data_hora>2019-07-04 12:00</j.0:data_hora>
+    <j.0:crm>88</j.0:crm>
+    <j.0:cpf>31</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/194">
+    <j.0:data_hora>2019-06-25 11:00</j.0:data_hora>
+    <j.0:crm>39</j.0:crm>
+    <j.0:cpf>524</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/195">
+    <j.0:data_hora>2019-07-04 15:00</j.0:data_hora>
+    <j.0:crm>14</j.0:crm>
+    <j.0:cpf>18</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/196">
+    <j.0:data_hora>2019-07-09 9:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>190</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/197">
+    <j.0:data_hora>2019-07-11 10:00</j.0:data_hora>
+    <j.0:crm>31</j.0:crm>
+    <j.0:cpf>329</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/198">
+    <j.0:data_hora>2019-06-26 11:00</j.0:data_hora>
+    <j.0:crm>5</j.0:crm>
+    <j.0:cpf>212</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/199">
+    <j.0:data_hora>2019-06-30 11:00</j.0:data_hora>
+    <j.0:crm>95</j.0:crm>
+    <j.0:cpf>885</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/200">
+    <j.0:data_hora>2019-06-24 11:00</j.0:data_hora>
+    <j.0:crm>99</j.0:crm>
+    <j.0:cpf>803</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/201">
+    <j.0:data_hora>2019-07-13 15:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>772</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/202">
+    <j.0:data_hora>2019-06-21 11:00</j.0:data_hora>
+    <j.0:crm>68</j.0:crm>
+    <j.0:cpf>11</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/203">
+    <j.0:data_hora>2019-06-28 9:00</j.0:data_hora>
+    <j.0:crm>81</j.0:crm>
+    <j.0:cpf>104</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/204">
+    <j.0:data_hora>2019-06-28 14:00</j.0:data_hora>
+    <j.0:crm>48</j.0:crm>
+    <j.0:cpf>255</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/205">
+    <j.0:data_hora>2019-07-18 14:00</j.0:data_hora>
+    <j.0:crm>76</j.0:crm>
+    <j.0:cpf>452</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/206">
+    <j.0:data_hora>2019-07-02 10:00</j.0:data_hora>
+    <j.0:crm>46</j.0:crm>
+    <j.0:cpf>608</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/207">
+    <j.0:data_hora>2019-06-25 12:00</j.0:data_hora>
+    <j.0:crm>7</j.0:crm>
+    <j.0:cpf>567</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/208">
+    <j.0:data_hora>2019-06-23 17:00</j.0:data_hora>
+    <j.0:crm>32</j.0:crm>
+    <j.0:cpf>692</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/209">
+    <j.0:data_hora>2019-07-05 15:00</j.0:data_hora>
+    <j.0:crm>34</j.0:crm>
+    <j.0:cpf>892</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/210">
+    <j.0:data_hora>2019-06-27 18:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>895</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/211">
+    <j.0:data_hora>2019-06-30 14:00</j.0:data_hora>
+    <j.0:crm>82</j.0:crm>
+    <j.0:cpf>35</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/212">
+    <j.0:data_hora>2019-07-01 15:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>813</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/213">
+    <j.0:data_hora>2019-06-24 17:00</j.0:data_hora>
+    <j.0:crm>70</j.0:crm>
+    <j.0:cpf>462</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/214">
+    <j.0:data_hora>2019-07-03 15:00</j.0:data_hora>
+    <j.0:crm>70</j.0:crm>
+    <j.0:cpf>718</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/215">
+    <j.0:data_hora>2019-07-16 9:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>764</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/216">
+    <j.0:data_hora>2019-06-25 9:00</j.0:data_hora>
+    <j.0:crm>78</j.0:crm>
+    <j.0:cpf>436</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/217">
+    <j.0:data_hora>2019-07-04 18:00</j.0:data_hora>
+    <j.0:crm>75</j.0:crm>
+    <j.0:cpf>532</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/218">
+    <j.0:data_hora>2019-06-29 17:00</j.0:data_hora>
+    <j.0:crm>96</j.0:crm>
+    <j.0:cpf>289</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/219">
+    <j.0:data_hora>2019-07-13 12:00</j.0:data_hora>
+    <j.0:crm>62</j.0:crm>
+    <j.0:cpf>57</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/220">
+    <j.0:data_hora>2019-07-10 16:00</j.0:data_hora>
+    <j.0:crm>60</j.0:crm>
+    <j.0:cpf>318</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/221">
+    <j.0:data_hora>2019-07-08 16:00</j.0:data_hora>
+    <j.0:crm>4</j.0:crm>
+    <j.0:cpf>249</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/222">
+    <j.0:data_hora>2019-07-17 11:00</j.0:data_hora>
+    <j.0:crm>77</j.0:crm>
+    <j.0:cpf>759</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/223">
+    <j.0:data_hora>2019-07-14 9:00</j.0:data_hora>
+    <j.0:crm>26</j.0:crm>
+    <j.0:cpf>622</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/224">
+    <j.0:data_hora>2019-07-16 16:00</j.0:data_hora>
+    <j.0:crm>7</j.0:crm>
+    <j.0:cpf>339</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/225">
+    <j.0:data_hora>2019-07-02 10:00</j.0:data_hora>
+    <j.0:crm>40</j.0:crm>
+    <j.0:cpf>496</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/226">
+    <j.0:data_hora>2019-07-12 15:00</j.0:data_hora>
+    <j.0:crm>14</j.0:crm>
+    <j.0:cpf>44</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/227">
+    <j.0:data_hora>2019-07-03 10:00</j.0:data_hora>
+    <j.0:crm>61</j.0:crm>
+    <j.0:cpf>293</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/228">
+    <j.0:data_hora>2019-07-04 12:00</j.0:data_hora>
+    <j.0:crm>38</j.0:crm>
+    <j.0:cpf>743</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/229">
+    <j.0:data_hora>2019-07-05 17:00</j.0:data_hora>
+    <j.0:crm>65</j.0:crm>
+    <j.0:cpf>238</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/230">
+    <j.0:data_hora>2019-07-16 17:00</j.0:data_hora>
+    <j.0:crm>67</j.0:crm>
+    <j.0:cpf>58</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/231">
+    <j.0:data_hora>2019-06-29 14:00</j.0:data_hora>
+    <j.0:crm>42</j.0:crm>
+    <j.0:cpf>308</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/232">
+    <j.0:data_hora>2019-07-02 10:00</j.0:data_hora>
+    <j.0:crm>7</j.0:crm>
+    <j.0:cpf>403</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/233">
+    <j.0:data_hora>2019-07-09 17:00</j.0:data_hora>
+    <j.0:crm>45</j.0:crm>
+    <j.0:cpf>294</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/234">
+    <j.0:data_hora>2019-07-03 9:00</j.0:data_hora>
+    <j.0:crm>34</j.0:crm>
+    <j.0:cpf>310</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/235">
+    <j.0:data_hora>2019-07-16 18:00</j.0:data_hora>
+    <j.0:crm>64</j.0:crm>
+    <j.0:cpf>946</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/236">
+    <j.0:data_hora>2019-07-18 14:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>558</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/237">
+    <j.0:data_hora>2019-06-27 11:00</j.0:data_hora>
+    <j.0:crm>99</j.0:crm>
+    <j.0:cpf>912</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/238">
+    <j.0:data_hora>2019-06-22 14:00</j.0:data_hora>
+    <j.0:crm>80</j.0:crm>
+    <j.0:cpf>942</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/239">
+    <j.0:data_hora>2019-07-02 11:00</j.0:data_hora>
+    <j.0:crm>14</j.0:crm>
+    <j.0:cpf>551</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/240">
+    <j.0:data_hora>2019-06-30 16:00</j.0:data_hora>
+    <j.0:crm>24</j.0:crm>
+    <j.0:cpf>810</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/241">
+    <j.0:data_hora>2019-06-26 17:00</j.0:data_hora>
+    <j.0:crm>11</j.0:crm>
+    <j.0:cpf>611</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/242">
+    <j.0:data_hora>2019-06-30 17:00</j.0:data_hora>
+    <j.0:crm>24</j.0:crm>
+    <j.0:cpf>415</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/243">
+    <j.0:data_hora>2019-06-21 12:00</j.0:data_hora>
+    <j.0:crm>46</j.0:crm>
+    <j.0:cpf>678</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/244">
+    <j.0:data_hora>2019-07-07 18:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>449</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/245">
+    <j.0:data_hora>2019-06-21 10:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>857</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/246">
+    <j.0:data_hora>2019-07-08 15:00</j.0:data_hora>
+    <j.0:crm>62</j.0:crm>
+    <j.0:cpf>237</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/247">
+    <j.0:data_hora>2019-07-08 16:00</j.0:data_hora>
+    <j.0:crm>98</j.0:crm>
+    <j.0:cpf>821</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/248">
+    <j.0:data_hora>2019-06-24 15:00</j.0:data_hora>
+    <j.0:crm>65</j.0:crm>
+    <j.0:cpf>131</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/249">
+    <j.0:data_hora>2019-06-22 10:00</j.0:data_hora>
+    <j.0:crm>96</j.0:crm>
+    <j.0:cpf>115</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/250">
+    <j.0:data_hora>2019-06-27 9:00</j.0:data_hora>
+    <j.0:crm>76</j.0:crm>
+    <j.0:cpf>623</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/251">
+    <j.0:data_hora>2019-07-04 17:00</j.0:data_hora>
+    <j.0:crm>53</j.0:crm>
+    <j.0:cpf>307</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/252">
+    <j.0:data_hora>2019-07-05 11:00</j.0:data_hora>
+    <j.0:crm>0</j.0:crm>
+    <j.0:cpf>121</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/253">
+    <j.0:data_hora>2019-06-30 12:00</j.0:data_hora>
+    <j.0:crm>68</j.0:crm>
+    <j.0:cpf>748</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/254">
+    <j.0:data_hora>2019-07-18 10:00</j.0:data_hora>
+    <j.0:crm>100</j.0:crm>
+    <j.0:cpf>778</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/255">
+    <j.0:data_hora>2019-07-17 18:00</j.0:data_hora>
+    <j.0:crm>0</j.0:crm>
+    <j.0:cpf>992</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/256">
+    <j.0:data_hora>2019-06-24 10:00</j.0:data_hora>
+    <j.0:crm>35</j.0:crm>
+    <j.0:cpf>990</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/257">
+    <j.0:data_hora>2019-07-11 9:00</j.0:data_hora>
+    <j.0:crm>54</j.0:crm>
+    <j.0:cpf>282</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/258">
+    <j.0:data_hora>2019-07-13 14:00</j.0:data_hora>
+    <j.0:crm>70</j.0:crm>
+    <j.0:cpf>811</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/259">
+    <j.0:data_hora>2019-07-14 11:00</j.0:data_hora>
+    <j.0:crm>85</j.0:crm>
+    <j.0:cpf>670</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/260">
+    <j.0:data_hora>2019-07-13 12:00</j.0:data_hora>
+    <j.0:crm>64</j.0:crm>
+    <j.0:cpf>657</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/261">
+    <j.0:data_hora>2019-07-02 15:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>789</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/262">
+    <j.0:data_hora>2019-07-01 10:00</j.0:data_hora>
+    <j.0:crm>68</j.0:crm>
+    <j.0:cpf>689</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/263">
+    <j.0:data_hora>2019-07-05 14:00</j.0:data_hora>
+    <j.0:crm>6</j.0:crm>
+    <j.0:cpf>364</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/264">
+    <j.0:data_hora>2019-06-27 17:00</j.0:data_hora>
+    <j.0:crm>56</j.0:crm>
+    <j.0:cpf>951</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/265">
+    <j.0:data_hora>2019-07-08 15:00</j.0:data_hora>
+    <j.0:crm>76</j.0:crm>
+    <j.0:cpf>489</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/266">
+    <j.0:data_hora>2019-07-12 14:00</j.0:data_hora>
+    <j.0:crm>32</j.0:crm>
+    <j.0:cpf>722</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/267">
+    <j.0:data_hora>2019-06-25 11:00</j.0:data_hora>
+    <j.0:crm>93</j.0:crm>
+    <j.0:cpf>989</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/268">
+    <j.0:data_hora>2019-07-15 9:00</j.0:data_hora>
+    <j.0:crm>55</j.0:crm>
+    <j.0:cpf>503</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/269">
+    <j.0:data_hora>2019-07-14 13:00</j.0:data_hora>
+    <j.0:crm>19</j.0:crm>
+    <j.0:cpf>276</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/270">
+    <j.0:data_hora>2019-07-01 13:00</j.0:data_hora>
+    <j.0:crm>14</j.0:crm>
+    <j.0:cpf>452</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/271">
+    <j.0:data_hora>2019-07-02 18:00</j.0:data_hora>
+    <j.0:crm>39</j.0:crm>
+    <j.0:cpf>602</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/272">
+    <j.0:data_hora>2019-07-12 12:00</j.0:data_hora>
+    <j.0:crm>54</j.0:crm>
+    <j.0:cpf>186</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/273">
+    <j.0:data_hora>2019-06-26 10:00</j.0:data_hora>
+    <j.0:crm>19</j.0:crm>
+    <j.0:cpf>585</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/274">
+    <j.0:data_hora>2019-07-05 14:00</j.0:data_hora>
+    <j.0:crm>78</j.0:crm>
+    <j.0:cpf>893</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/275">
+    <j.0:data_hora>2019-06-29 16:00</j.0:data_hora>
+    <j.0:crm>7</j.0:crm>
+    <j.0:cpf>543</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/276">
+    <j.0:data_hora>2019-07-04 17:00</j.0:data_hora>
+    <j.0:crm>20</j.0:crm>
+    <j.0:cpf>973</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/277">
+    <j.0:data_hora>2019-06-24 17:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>361</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/278">
+    <j.0:data_hora>2019-06-24 13:00</j.0:data_hora>
+    <j.0:crm>42</j.0:crm>
+    <j.0:cpf>205</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/279">
+    <j.0:data_hora>2019-07-02 16:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>926</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/280">
+    <j.0:data_hora>2019-07-15 17:00</j.0:data_hora>
+    <j.0:crm>61</j.0:crm>
+    <j.0:cpf>552</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/281">
+    <j.0:data_hora>2019-07-07 14:00</j.0:data_hora>
+    <j.0:crm>24</j.0:crm>
+    <j.0:cpf>946</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/282">
+    <j.0:data_hora>2019-07-09 9:00</j.0:data_hora>
+    <j.0:crm>28</j.0:crm>
+    <j.0:cpf>262</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/283">
+    <j.0:data_hora>2019-06-24 12:00</j.0:data_hora>
+    <j.0:crm>81</j.0:crm>
+    <j.0:cpf>277</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/284">
+    <j.0:data_hora>2019-07-06 9:00</j.0:data_hora>
+    <j.0:crm>63</j.0:crm>
+    <j.0:cpf>470</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/285">
+    <j.0:data_hora>2019-07-07 18:00</j.0:data_hora>
+    <j.0:crm>90</j.0:crm>
+    <j.0:cpf>621</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/286">
+    <j.0:data_hora>2019-07-16 11:00</j.0:data_hora>
+    <j.0:crm>57</j.0:crm>
+    <j.0:cpf>739</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/287">
+    <j.0:data_hora>2019-07-11 13:00</j.0:data_hora>
+    <j.0:crm>84</j.0:crm>
+    <j.0:cpf>487</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/288">
+    <j.0:data_hora>2019-07-09 12:00</j.0:data_hora>
+    <j.0:crm>72</j.0:crm>
+    <j.0:cpf>924</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/289">
+    <j.0:data_hora>2019-07-07 11:00</j.0:data_hora>
+    <j.0:crm>4</j.0:crm>
+    <j.0:cpf>200</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/290">
+    <j.0:data_hora>2019-07-18 10:00</j.0:data_hora>
+    <j.0:crm>39</j.0:crm>
+    <j.0:cpf>135</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/291">
+    <j.0:data_hora>2019-07-01 18:00</j.0:data_hora>
+    <j.0:crm>67</j.0:crm>
+    <j.0:cpf>872</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/292">
+    <j.0:data_hora>2019-06-22 17:00</j.0:data_hora>
+    <j.0:crm>29</j.0:crm>
+    <j.0:cpf>733</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/293">
+    <j.0:data_hora>2019-06-24 16:00</j.0:data_hora>
+    <j.0:crm>17</j.0:crm>
+    <j.0:cpf>380</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/294">
+    <j.0:data_hora>2019-07-18 12:00</j.0:data_hora>
+    <j.0:crm>71</j.0:crm>
+    <j.0:cpf>250</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/295">
+    <j.0:data_hora>2019-07-10 15:00</j.0:data_hora>
+    <j.0:crm>35</j.0:crm>
+    <j.0:cpf>74</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/296">
+    <j.0:data_hora>2019-07-03 18:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>889</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/297">
+    <j.0:data_hora>2019-07-05 13:00</j.0:data_hora>
+    <j.0:crm>69</j.0:crm>
+    <j.0:cpf>946</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/298">
+    <j.0:data_hora>2019-06-29 16:00</j.0:data_hora>
+    <j.0:crm>18</j.0:crm>
+    <j.0:cpf>753</j.0:cpf>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#consulta/299">
+    <j.0:data_hora>2019-06-21 14:00</j.0:data_hora>
+    <j.0:crm>44</j.0:crm>
+    <j.0:cpf>733</j.0:cpf>
+  </rdf:Description>
+
+</rdf:RDF>

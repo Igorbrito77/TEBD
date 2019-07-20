@@ -1,0 +1,804 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ufmedic.com/ufrrj/tebd/#">
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/0">
+    <j.0:CRM>0</j.0:CRM>
+    <j.0:nome>Fernanda Martins</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.0:valor_consulta>193</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/1">
+    <j.0:CRM>1</j.0:CRM>
+    <j.0:nome>Giovanna da Costa</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2017</j.0:ano_formacao>
+    <j.0:valor_consulta>221</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/2">
+    <j.0:CRM>2</j.0:CRM>
+    <j.0:nome>Rafael Pires</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.0:valor_consulta>385</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/3">
+    <j.0:CRM>3</j.0:CRM>
+    <j.0:nome>Yago da Paz</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.0:valor_consulta>322</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/4">
+    <j.0:CRM>4</j.0:CRM>
+    <j.0:nome>João Vitor Cardoso</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.0:valor_consulta>225</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/5">
+    <j.0:CRM>5</j.0:CRM>
+    <j.0:nome>Dr. Henrique da Costa</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.0:valor_consulta>370</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/6">
+    <j.0:CRM>6</j.0:CRM>
+    <j.0:nome>Dr. Felipe Vieira</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1984</j.0:ano_formacao>
+    <j.0:valor_consulta>237</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/7">
+    <j.0:CRM>7</j.0:CRM>
+    <j.0:nome>Rodrigo Silva</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2012</j.0:ano_formacao>
+    <j.0:valor_consulta>335</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/8">
+    <j.0:CRM>8</j.0:CRM>
+    <j.0:nome>Evelyn Gonçalves</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.0:valor_consulta>183</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/9">
+    <j.0:CRM>9</j.0:CRM>
+    <j.0:nome>Maria Luiza Peixoto</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.0:valor_consulta>122</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/10">
+    <j.0:CRM>10</j.0:CRM>
+    <j.0:nome>João Vitor Porto</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1983</j.0:ano_formacao>
+    <j.0:valor_consulta>354</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/11">
+    <j.0:CRM>11</j.0:CRM>
+    <j.0:nome>Sra. Nicole da Paz</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2013</j.0:ano_formacao>
+    <j.0:valor_consulta>251</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/12">
+    <j.0:CRM>12</j.0:CRM>
+    <j.0:nome>Paulo da Mata</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2016</j.0:ano_formacao>
+    <j.0:valor_consulta>191</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/13">
+    <j.0:CRM>13</j.0:CRM>
+    <j.0:nome>Cauê Santos</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2003</j.0:ano_formacao>
+    <j.0:valor_consulta>371</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/14">
+    <j.0:CRM>14</j.0:CRM>
+    <j.0:nome>Dr. Caio Silva</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1991</j.0:ano_formacao>
+    <j.0:valor_consulta>352</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/15">
+    <j.0:CRM>15</j.0:CRM>
+    <j.0:nome>Levi Cardoso</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1977</j.0:ano_formacao>
+    <j.0:valor_consulta>139</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/16">
+    <j.0:CRM>16</j.0:CRM>
+    <j.0:nome>Pedro Miguel Fernandes</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2007</j.0:ano_formacao>
+    <j.0:valor_consulta>297</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/17">
+    <j.0:CRM>17</j.0:CRM>
+    <j.0:nome>Carlos Eduardo Pereira</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.0:valor_consulta>221</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/18">
+    <j.0:CRM>18</j.0:CRM>
+    <j.0:nome>Clara da Costa</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.0:valor_consulta>311</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/19">
+    <j.0:CRM>19</j.0:CRM>
+    <j.0:nome>Ian Duarte</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.0:valor_consulta>231</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/20">
+    <j.0:CRM>20</j.0:CRM>
+    <j.0:nome>Enrico Silveira</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2001</j.0:ano_formacao>
+    <j.0:valor_consulta>306</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/21">
+    <j.0:CRM>21</j.0:CRM>
+    <j.0:nome>Cauã Duarte</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1983</j.0:ano_formacao>
+    <j.0:valor_consulta>292</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/22">
+    <j.0:CRM>22</j.0:CRM>
+    <j.0:nome>Eduardo Moraes</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.0:valor_consulta>339</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/23">
+    <j.0:CRM>23</j.0:CRM>
+    <j.0:nome>Daniela Dias</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.0:valor_consulta>341</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/24">
+    <j.0:CRM>24</j.0:CRM>
+    <j.0:nome>Kamilly Rodrigues</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.0:valor_consulta>265</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/25">
+    <j.0:CRM>25</j.0:CRM>
+    <j.0:nome>Daniel da Mota</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1996</j.0:ano_formacao>
+    <j.0:valor_consulta>232</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/26">
+    <j.0:CRM>26</j.0:CRM>
+    <j.0:nome>Joana Martins</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.0:valor_consulta>249</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/27">
+    <j.0:CRM>27</j.0:CRM>
+    <j.0:nome>Vitor Gabriel da Luz</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.0:valor_consulta>149</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/28">
+    <j.0:CRM>28</j.0:CRM>
+    <j.0:nome>Danilo Silveira</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2013</j.0:ano_formacao>
+    <j.0:valor_consulta>248</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/29">
+    <j.0:CRM>29</j.0:CRM>
+    <j.0:nome>Letícia Moraes</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2019</j.0:ano_formacao>
+    <j.0:valor_consulta>198</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/30">
+    <j.0:CRM>30</j.0:CRM>
+    <j.0:nome>Sr. Marcos Vinicius Freitas</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1982</j.0:ano_formacao>
+    <j.0:valor_consulta>389</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/31">
+    <j.0:CRM>31</j.0:CRM>
+    <j.0:nome>Yago Sales</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2002</j.0:ano_formacao>
+    <j.0:valor_consulta>218</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/32">
+    <j.0:CRM>32</j.0:CRM>
+    <j.0:nome>Larissa da Paz</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.0:valor_consulta>106</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/33">
+    <j.0:CRM>33</j.0:CRM>
+    <j.0:nome>Laís Vieira</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.0:valor_consulta>246</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/34">
+    <j.0:CRM>34</j.0:CRM>
+    <j.0:nome>Rafael Fernandes</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.0:valor_consulta>112</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/35">
+    <j.0:CRM>35</j.0:CRM>
+    <j.0:nome>Sr. Yago Almeida</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.0:valor_consulta>127</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/36">
+    <j.0:CRM>36</j.0:CRM>
+    <j.0:nome>Dra. Sarah Melo</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2018</j.0:ano_formacao>
+    <j.0:valor_consulta>258</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/37">
+    <j.0:CRM>37</j.0:CRM>
+    <j.0:nome>Srta. Sophia Almeida</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2011</j.0:ano_formacao>
+    <j.0:valor_consulta>131</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/38">
+    <j.0:CRM>38</j.0:CRM>
+    <j.0:nome>Carolina Nascimento</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.0:valor_consulta>209</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/39">
+    <j.0:CRM>39</j.0:CRM>
+    <j.0:nome>Srta. Isis Nunes</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1986</j.0:ano_formacao>
+    <j.0:valor_consulta>218</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/40">
+    <j.0:CRM>40</j.0:CRM>
+    <j.0:nome>Ana Sophia Correia</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1999</j.0:ano_formacao>
+    <j.0:valor_consulta>154</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/41">
+    <j.0:CRM>41</j.0:CRM>
+    <j.0:nome>Ana Carolina da Mata</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2005</j.0:ano_formacao>
+    <j.0:valor_consulta>243</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/42">
+    <j.0:CRM>42</j.0:CRM>
+    <j.0:nome>Henrique da Mata</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.0:valor_consulta>116</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/43">
+    <j.0:CRM>43</j.0:CRM>
+    <j.0:nome>Raul Dias</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.0:valor_consulta>396</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/44">
+    <j.0:CRM>44</j.0:CRM>
+    <j.0:nome>Pietra da Costa</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.0:valor_consulta>159</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/45">
+    <j.0:CRM>45</j.0:CRM>
+    <j.0:nome>Sra. Raquel Ferreira</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.0:valor_consulta>289</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/46">
+    <j.0:CRM>46</j.0:CRM>
+    <j.0:nome>Nicole Araújo</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.0:valor_consulta>307</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/47">
+    <j.0:CRM>47</j.0:CRM>
+    <j.0:nome>Danilo Almeida</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1999</j.0:ano_formacao>
+    <j.0:valor_consulta>173</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/48">
+    <j.0:CRM>48</j.0:CRM>
+    <j.0:nome>Srta. Sarah da Paz</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2015</j.0:ano_formacao>
+    <j.0:valor_consulta>351</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/49">
+    <j.0:CRM>49</j.0:CRM>
+    <j.0:nome>Isabelly Azevedo</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.0:valor_consulta>196</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/50">
+    <j.0:CRM>50</j.0:CRM>
+    <j.0:nome>Esther Cavalcanti</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1985</j.0:ano_formacao>
+    <j.0:valor_consulta>184</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/51">
+    <j.0:CRM>51</j.0:CRM>
+    <j.0:nome>Vitória Nunes</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.0:valor_consulta>352</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/52">
+    <j.0:CRM>52</j.0:CRM>
+    <j.0:nome>Raquel Porto</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2001</j.0:ano_formacao>
+    <j.0:valor_consulta>230</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/53">
+    <j.0:CRM>53</j.0:CRM>
+    <j.0:nome>Luiza Ferreira</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.0:valor_consulta>124</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/54">
+    <j.0:CRM>54</j.0:CRM>
+    <j.0:nome>João Lucas da Rocha</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1970</j.0:ano_formacao>
+    <j.0:valor_consulta>323</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/55">
+    <j.0:CRM>55</j.0:CRM>
+    <j.0:nome>Stephany da Costa</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.0:valor_consulta>275</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/56">
+    <j.0:CRM>56</j.0:CRM>
+    <j.0:nome>Noah Silveira</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1978</j.0:ano_formacao>
+    <j.0:valor_consulta>171</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/57">
+    <j.0:CRM>57</j.0:CRM>
+    <j.0:nome>Amanda Melo</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.0:valor_consulta>281</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/58">
+    <j.0:CRM>58</j.0:CRM>
+    <j.0:nome>Leandro Gomes</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.0:valor_consulta>141</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/59">
+    <j.0:CRM>59</j.0:CRM>
+    <j.0:nome>Marcos Vinicius Porto</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1978</j.0:ano_formacao>
+    <j.0:valor_consulta>146</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/60">
+    <j.0:CRM>60</j.0:CRM>
+    <j.0:nome>Dra. Ana Vitória Moura</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2008</j.0:ano_formacao>
+    <j.0:valor_consulta>209</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/61">
+    <j.0:CRM>61</j.0:CRM>
+    <j.0:nome>Augusto Correia</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.0:valor_consulta>378</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/62">
+    <j.0:CRM>62</j.0:CRM>
+    <j.0:nome>Dr. Luiz Felipe Novaes</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1986</j.0:ano_formacao>
+    <j.0:valor_consulta>312</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/63">
+    <j.0:CRM>63</j.0:CRM>
+    <j.0:nome>Juliana Barbosa</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2002</j.0:ano_formacao>
+    <j.0:valor_consulta>309</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/64">
+    <j.0:CRM>64</j.0:CRM>
+    <j.0:nome>Stella das Neves</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1993</j.0:ano_formacao>
+    <j.0:valor_consulta>103</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/65">
+    <j.0:CRM>65</j.0:CRM>
+    <j.0:nome>Fernando Lima</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.0:valor_consulta>237</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/66">
+    <j.0:CRM>66</j.0:CRM>
+    <j.0:nome>Isabel Peixoto</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1982</j.0:ano_formacao>
+    <j.0:valor_consulta>191</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/67">
+    <j.0:CRM>67</j.0:CRM>
+    <j.0:nome>Dr. Lorenzo da Cunha</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1985</j.0:ano_formacao>
+    <j.0:valor_consulta>182</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/68">
+    <j.0:CRM>68</j.0:CRM>
+    <j.0:nome>Mariane Castro</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2018</j.0:ano_formacao>
+    <j.0:valor_consulta>246</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/69">
+    <j.0:CRM>69</j.0:CRM>
+    <j.0:nome>Ana Lívia Oliveira</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.0:valor_consulta>110</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/70">
+    <j.0:CRM>70</j.0:CRM>
+    <j.0:nome>Maria Luiza da Cruz</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.0:valor_consulta>296</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/71">
+    <j.0:CRM>71</j.0:CRM>
+    <j.0:nome>Sra. Ana Carolina Rodrigues</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2010</j.0:ano_formacao>
+    <j.0:valor_consulta>125</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/72">
+    <j.0:CRM>72</j.0:CRM>
+    <j.0:nome>Henrique Correia</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1970</j.0:ano_formacao>
+    <j.0:valor_consulta>251</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/73">
+    <j.0:CRM>73</j.0:CRM>
+    <j.0:nome>Isadora Cunha</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.0:valor_consulta>186</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/74">
+    <j.0:CRM>74</j.0:CRM>
+    <j.0:nome>Sra. Maria Vitória Peixoto</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.0:valor_consulta>214</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/75">
+    <j.0:CRM>75</j.0:CRM>
+    <j.0:nome>Heitor Lopes</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.0:valor_consulta>272</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/76">
+    <j.0:CRM>76</j.0:CRM>
+    <j.0:nome>Alexia Silva</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.0:valor_consulta>393</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/77">
+    <j.0:CRM>77</j.0:CRM>
+    <j.0:nome>Alana Ramos</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.0:valor_consulta>331</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/78">
+    <j.0:CRM>78</j.0:CRM>
+    <j.0:nome>Mirella Moreira</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1971</j.0:ano_formacao>
+    <j.0:valor_consulta>378</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/79">
+    <j.0:CRM>79</j.0:CRM>
+    <j.0:nome>Ana Vitória Freitas</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1984</j.0:ano_formacao>
+    <j.0:valor_consulta>293</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/80">
+    <j.0:CRM>80</j.0:CRM>
+    <j.0:nome>Gabriela Souza</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.0:valor_consulta>141</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/81">
+    <j.0:CRM>81</j.0:CRM>
+    <j.0:nome>Lucca Azevedo</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.0:valor_consulta>256</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/82">
+    <j.0:CRM>82</j.0:CRM>
+    <j.0:nome>Maria Cecília Campos</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.0:valor_consulta>290</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/83">
+    <j.0:CRM>83</j.0:CRM>
+    <j.0:nome>Sophie Mendes</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1996</j.0:ano_formacao>
+    <j.0:valor_consulta>359</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/84">
+    <j.0:CRM>84</j.0:CRM>
+    <j.0:nome>Camila Nascimento</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.0:valor_consulta>311</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/85">
+    <j.0:CRM>85</j.0:CRM>
+    <j.0:nome>Sra. Emilly Rocha</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.0:valor_consulta>116</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/86">
+    <j.0:CRM>86</j.0:CRM>
+    <j.0:nome>Davi Luiz da Rosa</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.0:valor_consulta>336</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/87">
+    <j.0:CRM>87</j.0:CRM>
+    <j.0:nome>Vitor Oliveira</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1993</j.0:ano_formacao>
+    <j.0:valor_consulta>271</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/88">
+    <j.0:CRM>88</j.0:CRM>
+    <j.0:nome>Isabelly Fogaça</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.0:valor_consulta>119</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/89">
+    <j.0:CRM>89</j.0:CRM>
+    <j.0:nome>Ana Lívia Silveira</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1989</j.0:ano_formacao>
+    <j.0:valor_consulta>372</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/90">
+    <j.0:CRM>90</j.0:CRM>
+    <j.0:nome>Dr. Matheus Almeida</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.0:valor_consulta>211</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/91">
+    <j.0:CRM>91</j.0:CRM>
+    <j.0:nome>Paulo Cardoso</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1977</j.0:ano_formacao>
+    <j.0:valor_consulta>314</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/92">
+    <j.0:CRM>92</j.0:CRM>
+    <j.0:nome>Luana Nascimento</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.0:valor_consulta>333</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/93">
+    <j.0:CRM>93</j.0:CRM>
+    <j.0:nome>Alícia Barbosa</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.0:valor_consulta>360</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/94">
+    <j.0:CRM>94</j.0:CRM>
+    <j.0:nome>Yago da Cunha</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1989</j.0:ano_formacao>
+    <j.0:valor_consulta>282</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/95">
+    <j.0:CRM>95</j.0:CRM>
+    <j.0:nome>Isaac Costela</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.0:valor_consulta>103</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/96">
+    <j.0:CRM>96</j.0:CRM>
+    <j.0:nome>Miguel da Paz</j.0:nome>
+    <j.0:cod_especialidade>2</j.0:cod_especialidade>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.0:valor_consulta>270</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/97">
+    <j.0:CRM>97</j.0:CRM>
+    <j.0:nome>Henrique da Mata</j.0:nome>
+    <j.0:cod_especialidade>3</j.0:cod_especialidade>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.0:valor_consulta>261</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/98">
+    <j.0:CRM>98</j.0:CRM>
+    <j.0:nome>Eloah Peixoto</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1973</j.0:ano_formacao>
+    <j.0:valor_consulta>186</j.0:valor_consulta>
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://ufmedic.com/ufrrj/tebd/#medico/99">
+    <j.0:CRM>99</j.0:CRM>
+    <j.0:nome>Luiz Felipe Aragão</j.0:nome>
+    <j.0:cod_especialidade>1</j.0:cod_especialidade>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.0:valor_consulta>367</j.0:valor_consulta>
+  </rdf:Description>
+
+</rdf:RDF>
